@@ -1,0 +1,811 @@
+C:\Users\aleja\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.1\lib\idea_rt.jar=63045:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\aleja\IdeaProjects\Maven Project\PokeInfo\target\classes;C:\Users\aleja\.m2\repository\org\springframework\boot\spring-boot-starter\3.4.3\spring-boot-starter-3.4.3.jar;C:\Users\aleja\.m2\repository\org\springframework\boot\spring-boot\3.4.3\spring-boot-3.4.3.jar;C:\Users\aleja\.m2\repository\org\springframework\spring-context\6.2.3\spring-context-6.2.3.jar;C:\Users\aleja\.m2\repository\org\springframework\spring-aop\6.2.3\spring-aop-6.2.3.jar;C:\Users\aleja\.m2\repository\org\springframework\spring-beans\6.2.3\spring-beans-6.2.3.jar;C:\Users\aleja\.m2\repository\org\springframework\spring-expression\6.2.3\spring-expression-6.2.3.jar;C:\Users\aleja\.m2\repository\io\micrometer\micrometer-observation\1.14.4\micrometer-observation-1.14.4.jar;C:\Users\aleja\.m2\repository\io\micrometer\micrometer-commons\1.14.4\micrometer-commons-1.14.4.jar;C:\Users\aleja\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\3.4.3\spring-boot-autoconfigure-3.4.3.jar;C:\Users\aleja\.m2\repository\org\springframework\boot\spring-boot-starter-logging\3.4.3\spring-boot-starter-logging-3.4.3.jar;C:\Users\aleja\.m2\repository\ch\qos\logback\logback-classic\1.5.16\logback-classic-1.5.16.jar;C:\Users\aleja\.m2\repository\ch\qos\logback\logback-core\1.5.16\logback-core-1.5.16.jar;C:\Users\aleja\.m2\repository\org\apache\logging\log4j\log4j-to-slf4j\2.24.3\log4j-to-slf4j-2.24.3.jar;C:\Users\aleja\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar;C:\Users\aleja\.m2\repository\org\slf4j\jul-to-slf4j\2.0.16\jul-to-slf4j-2.0.16.jar;C:\Users\aleja\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar;C:\Users\aleja\.m2\repository\org\springframework\spring-core\6.2.3\spring-core-6.2.3.jar;C:\Users\aleja\.m2\repository\org\springframework\spring-jcl\6.2.3\spring-jcl-6.2.3.jar;C:\Users\aleja\.m2\repository\org\yaml\snakeyaml\2.3\snakeyaml-2.3.jar;C:\Users\aleja\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\aleja\.m2\repository\com\squareup\okhttp3\okhttp\4.9.3\okhttp-4.9.3.jar;C:\Users\aleja\.m2\repository\com\squareup\okio\okio\2.8.0\okio-2.8.0.jar;C:\Users\aleja\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.9.25\kotlin-stdlib-common-1.9.25.jar;C:\Users\aleja\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.9.25\kotlin-stdlib-1.9.25.jar;C:\Users\aleja\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\aleja\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;C:\Users\aleja\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.18.2\jackson-annotations-2.18.2.jar;C:\Users\aleja\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.18.2\jackson-core-2.18.2.jar" org.example.pokeinfo.main.Main
+
+--- Pokémon Card Found ---
+Name: Blaine's Charizard
+HP: 100
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Gym Challenge
+Image: https://images.pokemontcg.io/gym2/2_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 130
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Secret Wonders
+Image: https://images.pokemontcg.io/dp3/3_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 140
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Arceus
+Image: https://images.pokemontcg.io/pl4/1_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Base Set 2
+Image: https://images.pokemontcg.io/base4/4_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Legendary Collection
+Image: https://images.pokemontcg.io/base6/3_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 180
+Types: [Fire]
+Rarity: Rare Ultra
+Set: Set Name: Detective Pikachu
+Image: https://images.pokemontcg.io/det1/5_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 160
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Dragon Majesty
+Image: https://images.pokemontcg.io/sm75/3_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Base
+Image: https://images.pokemontcg.io/base1/4_hires.png
+
+--- Pokémon Card Found ---
+Name: Dark Charizard
+HP: 80
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Team Rocket
+Image: https://images.pokemontcg.io/base5/4_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard δ
+HP: 120
+Types: [Lightning, Metal]
+Rarity: Rare Holo
+Set: Set Name: Crystal Guardians
+Image: https://images.pokemontcg.io/ex14/4_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-GX
+HP: 250
+Types: [Fire]
+Rarity: Rare Holo GX
+Set: Set Name: Hidden Fates
+Image: https://images.pokemontcg.io/sm115/9_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: Flashfire
+Image: https://images.pokemontcg.io/xy2/11_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: Flashfire
+Image: https://images.pokemontcg.io/xy2/12_hires.png
+
+--- Pokémon Card Found ---
+Name: M Charizard-EX
+HP: 220
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: Flashfire
+Image: https://images.pokemontcg.io/xy2/13_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 150
+Types: [Fire]
+Rarity: Rare
+Set: Set Name: Team Up
+Image: https://images.pokemontcg.io/sm9/14_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Expedition Base Set
+Image: https://images.pokemontcg.io/ecard1/6_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Power Keepers
+Image: https://images.pokemontcg.io/ex16/6_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 160
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Legendary Treasures
+Image: https://images.pokemontcg.io/bw11/19_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 150
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Evolutions
+Image: https://images.pokemontcg.io/xy12/11_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: Evolutions
+Image: https://images.pokemontcg.io/xy12/12_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 160
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Boundaries Crossed
+Image: https://images.pokemontcg.io/bw7/20_hires.png
+
+--- Pokémon Card Found ---
+Name: M Charizard-EX
+HP: 220
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: Evolutions
+Image: https://images.pokemontcg.io/xy12/13_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: Generations
+Image: https://images.pokemontcg.io/g1/11_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard G
+HP: 100
+Types: [Fire]
+Rarity: Rare
+Set: Set Name: Supreme Victors
+Image: https://images.pokemontcg.io/pl3/20_hires.png
+
+--- Pokémon Card Found ---
+Name: M Charizard-EX
+HP: 220
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: Generations
+Image: https://images.pokemontcg.io/g1/12_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard & Braixen-GX
+HP: 270
+Types: [Fire]
+Rarity: Rare Holo GX
+Set: Set Name: Cosmic Eclipse
+Image: https://images.pokemontcg.io/sm12/22_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-GX
+HP: 250
+Types: [Fire]
+Rarity: Rare Holo GX
+Set: Set Name: Burning Shadows
+Image: https://images.pokemontcg.io/sm3/20_hires.png
+
+--- Pokémon Card Found ---
+Name: Dark Charizard
+HP: 80
+Types: [Fire]
+Rarity: Rare
+Set: Set Name: Team Rocket
+Image: https://images.pokemontcg.io/base5/21_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Rare Holo V
+Set: Set Name: Darkness Ablaze
+Image: https://images.pokemontcg.io/swsh3/19_hires.png
+
+--- Pokémon Card Found ---
+Name: Reshiram & Charizard-GX
+HP: 270
+Types: [Fire]
+Rarity: Rare Holo GX
+Set: Set Name: Unbroken Bonds
+Image: https://images.pokemontcg.io/sm10/20_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: XY Black Star Promos
+Image: https://images.pokemontcg.io/xyp/XY17_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VMAX
+HP: 330
+Types: [Fire]
+Rarity: Rare Holo VMAX
+Set: Set Name: Darkness Ablaze
+Image: https://images.pokemontcg.io/swsh3/20_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 170
+Types: [Fire]
+Rarity: Rare
+Set: Set Name: Vivid Voltage
+Image: https://images.pokemontcg.io/swsh4/25_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: XY Black Star Promos
+Image: https://images.pokemontcg.io/xyp/XY29_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard G LV.X
+HP: 120
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: DP Black Star Promos
+Image: https://images.pokemontcg.io/dpp/DP45_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 100
+Types: [Fire]
+Rarity: Rare
+Set: Set Name: Expedition Base Set
+Image: https://images.pokemontcg.io/ecard1/39_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare
+Set: Set Name: Expedition Base Set
+Image: https://images.pokemontcg.io/ecard1/40_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-GX
+HP: 250
+Types: [Fire]
+Rarity: Rare Shiny GX
+Set: Set Name: Hidden Fates Shiny Vault
+Image: https://images.pokemontcg.io/sma/SV49_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SWSH Black Star Promos
+Image: https://images.pokemontcg.io/swshp/SWSH050_hires.png
+
+--- Pokémon Card Found ---
+Name: M Charizard-EX
+HP: 230
+Types: [Dragon]
+Rarity: Rare Holo EX
+Set: Set Name: Flashfire
+Image: https://images.pokemontcg.io/xy2/69_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-GX
+HP: 250
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM60_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VMAX
+HP: 330
+Types: [Fire]
+Rarity: Rare Rainbow
+Set: Set Name: Champion's Path
+Image: https://images.pokemontcg.io/swsh35/74_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 170
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SWSH Black Star Promos
+Image: https://images.pokemontcg.io/swshp/SWSH066_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Rare Secret
+Set: Set Name: Champion's Path
+Image: https://images.pokemontcg.io/swsh35/79_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard Spirit Link
+HP: null
+Types: null
+Rarity: Uncommon
+Set: Set Name: Evolutions
+Image: https://images.pokemontcg.io/xy12/75_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Rare Ultra
+Set: Set Name: Flashfire
+Image: https://images.pokemontcg.io/xy2/100_hires.png
+
+--- Pokémon Card Found ---
+Name: M Charizard-EX
+HP: 220
+Types: [Fire]
+Rarity: Rare Secret
+Set: Set Name: Flashfire
+Image: https://images.pokemontcg.io/xy2/107_hires.png
+
+--- Pokémon Card Found ---
+Name: M Charizard-EX
+HP: 230
+Types: [Dragon]
+Rarity: Rare Secret
+Set: Set Name: Flashfire
+Image: https://images.pokemontcg.io/xy2/108_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 160
+Types: [Fire]
+Rarity: Uncommon
+Set: Set Name: Generations
+Image: https://images.pokemontcg.io/g1/RC5_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare Secret
+Set: Set Name: Dragon
+Image: https://images.pokemontcg.io/ex3/100_hires.png
+
+--- Pokémon Card Found ---
+Name: M Charizard-EX
+HP: 220
+Types: [Fire]
+Rarity: Rare Ultra
+Set: Set Name: Evolutions
+Image: https://images.pokemontcg.io/xy12/101_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 160
+Types: [Fire]
+Rarity: Rare Holo EX
+Set: Set Name: FireRed & LeafGreen
+Image: https://images.pokemontcg.io/ex6/105_hires.png
+
+--- Pokémon Card Found ---
+Name: Shining Charizard
+HP: 100
+Types: [Fire]
+Rarity: Rare Shining
+Set: Set Name: Neo Destiny
+Image: https://images.pokemontcg.io/neo4/107_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Rare Secret
+Set: Set Name: Stormfront
+Image: https://images.pokemontcg.io/dp7/103_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ★ δ
+HP: 90
+Types: [Darkness]
+Rarity: Rare Holo Star
+Set: Set Name: Dragon Frontiers
+Image: https://images.pokemontcg.io/ex15/100_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-EX
+HP: 180
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: XY Black Star Promos
+Image: https://images.pokemontcg.io/xyp/XY121_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 160
+Types: [Fire]
+Rarity: Rare Secret
+Set: Set Name: Plasma Storm
+Image: https://images.pokemontcg.io/bw8/136_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard G LV.X
+HP: 120
+Types: [Fire]
+Rarity: Rare Holo LV.X
+Set: Set Name: Supreme Victors
+Image: https://images.pokemontcg.io/pl3/143_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 150
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM158_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-GX
+HP: 250
+Types: [Fire]
+Rarity: Rare Rainbow
+Set: Set Name: Burning Shadows
+Image: https://images.pokemontcg.io/sm3/150_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 110
+Types: [Colorless]
+Rarity: Rare Secret
+Set: Set Name: Skyridge
+Image: https://images.pokemontcg.io/ecard3/146_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-GX
+HP: 250
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM195_hires.png
+
+--- Pokémon Card Found ---
+Name: Reshiram & Charizard-GX
+HP: 270
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM201_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard-GX
+HP: 250
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM211_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard & Braixen-GX
+HP: 270
+Types: [Fire]
+Rarity: Rare Ultra
+Set: Set Name: Cosmic Eclipse
+Image: https://images.pokemontcg.io/sm12/212_hires.png
+
+--- Pokémon Card Found ---
+Name: Reshiram & Charizard-GX
+HP: 270
+Types: [Fire]
+Rarity: Rare Ultra
+Set: Set Name: Unbroken Bonds
+Image: https://images.pokemontcg.io/sm10/194_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 150
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM226_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard & Braixen-GX
+HP: 270
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM230_hires.png
+
+--- Pokémon Card Found ---
+Name: Reshiram & Charizard-GX
+HP: 270
+Types: [Fire]
+Rarity: Rare Rainbow
+Set: Set Name: Unbroken Bonds
+Image: https://images.pokemontcg.io/sm10/217_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard & Braixen-GX
+HP: 270
+Types: [Fire]
+Rarity: Rare Rainbow
+Set: Set Name: Cosmic Eclipse
+Image: https://images.pokemontcg.io/sm12/251_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VMAX
+HP: 330
+Types: [Fire]
+Rarity: Rare Holo VMAX
+Set: Set Name: Shining Fates Shiny Vault
+Image: https://images.pokemontcg.io/swsh45sv/SV107_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 120
+Types: [Fire]
+Rarity: Classic Collection
+Set: Set Name: Celebrations: Classic Collection
+Image: https://images.pokemontcg.io/cel25c/4_A_hires.png
+
+--- Pokémon Card Found ---
+Name: Reshiram & Charizard-GX
+HP: 270
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SM Black Star Promos
+Image: https://images.pokemontcg.io/smp/SM247_hires.png
+
+--- Pokémon Card Found ---
+Name: Lance's Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SWSH Black Star Promos
+Image: https://images.pokemontcg.io/swshp/SWSH133_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Rare Holo V
+Set: Set Name: Brilliant Stars
+Image: https://images.pokemontcg.io/swsh9/17_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VSTAR
+HP: 280
+Types: [Fire]
+Rarity: Rare Holo VSTAR
+Set: Set Name: Brilliant Stars
+Image: https://images.pokemontcg.io/swsh9/18_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Rare Ultra
+Set: Set Name: Brilliant Stars
+Image: https://images.pokemontcg.io/swsh9/153_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Rare Ultra
+Set: Set Name: Brilliant Stars
+Image: https://images.pokemontcg.io/swsh9/154_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VSTAR
+HP: 280
+Types: [Fire]
+Rarity: Rare Rainbow
+Set: Set Name: Brilliant Stars
+Image: https://images.pokemontcg.io/swsh9/174_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 170
+Types: [Fire]
+Rarity: Rare Holo
+Set: Set Name: Pokémon GO
+Image: https://images.pokemontcg.io/pgo/10_hires.png
+
+--- Pokémon Card Found ---
+Name: Radiant Charizard
+HP: 160
+Types: [Fire]
+Rarity: Radiant Rare
+Set: Set Name: Pokémon GO
+Image: https://images.pokemontcg.io/pgo/11_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard
+HP: 170
+Types: [Fire]
+Rarity: Trainer Gallery Rare Holo
+Set: Set Name: Lost Origin Trainer Gallery
+Image: https://images.pokemontcg.io/swsh11tg/TG03_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SWSH Black Star Promos
+Image: https://images.pokemontcg.io/swshp/SWSH260_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VMAX
+HP: 330
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SWSH Black Star Promos
+Image: https://images.pokemontcg.io/swshp/SWSH261_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VSTAR
+HP: 280
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SWSH Black Star Promos
+Image: https://images.pokemontcg.io/swshp/SWSH262_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard V
+HP: 220
+Types: [Fire]
+Rarity: Rare Holo V
+Set: Set Name: Crown Zenith
+Image: https://images.pokemontcg.io/swsh12pt5/18_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard VSTAR
+HP: 280
+Types: [Fire]
+Rarity: Rare Holo VSTAR
+Set: Set Name: Crown Zenith
+Image: https://images.pokemontcg.io/swsh12pt5/19_hires.png
+
+--- Pokémon Card Found ---
+Name: Radiant Charizard
+HP: 160
+Types: [Fire]
+Rarity: Radiant Rare
+Set: Set Name: Crown Zenith
+Image: https://images.pokemontcg.io/swsh12pt5/20_hires.png
+
+--- Pokémon Card Found ---
+Name: Special Delivery Charizard
+HP: 160
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: SWSH Black Star Promos
+Image: https://images.pokemontcg.io/swshp/SWSH075_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Double Rare
+Set: Set Name: Obsidian Flames
+Image: https://images.pokemontcg.io/sv3/125_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Ultra Rare
+Set: Set Name: Obsidian Flames
+Image: https://images.pokemontcg.io/sv3/215_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Hyper Rare
+Set: Set Name: Obsidian Flames
+Image: https://images.pokemontcg.io/sv3/228_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Special Illustration Rare
+Set: Set Name: Obsidian Flames
+Image: https://images.pokemontcg.io/sv3/223_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Fire]
+Rarity: Double Rare
+Set: Set Name: 151
+Image: https://images.pokemontcg.io/sv3pt5/6_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Fire]
+Rarity: Ultra Rare
+Set: Set Name: 151
+Image: https://images.pokemontcg.io/sv3pt5/183_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Fire]
+Rarity: Special Illustration Rare
+Set: Set Name: 151
+Image: https://images.pokemontcg.io/sv3pt5/199_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Double Rare
+Set: Set Name: Paldean Fates
+Image: https://images.pokemontcg.io/sv4pt5/54_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Special Illustration Rare
+Set: Set Name: Paldean Fates
+Image: https://images.pokemontcg.io/sv4pt5/234_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Promo
+Set: Set Name: Scarlet & Violet Black Star Promos
+Image: https://images.pokemontcg.io/svp/56_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Darkness]
+Rarity: Promo
+Set: Set Name: Scarlet & Violet Black Star Promos
+Image: https://images.pokemontcg.io/svp/74_hires.png
+
+--- Pokémon Card Found ---
+Name: Charizard ex
+HP: 330
+Types: [Fire]
+Rarity: Promo
+Set: Set Name: Scarlet & Violet Black Star Promos
+Image: https://images.pokemontcg.io/svp/161_hires.png
+
+
